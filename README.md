@@ -1,4 +1,4 @@
-# Welcome to **Sol US LLC** 🌞
+# Welcome to **Sol** 🌞
 
 **Sol** believes in pushing the boundaries of what's possible through **imagination**, **technology**, and **innovation**. Our goal is to create technologies and solutions that shape the future, one spark of creativity at a time.
 
@@ -29,3 +29,10 @@ We aim to harness **imagination** and **creativity** to drive a future where tec
 ---
 Thank you for visiting!  
 💡 **Sol - Where Imagination Meets Innovation**
+
+
+
+
+<sub>Sol US LLC</sub>
+
+
