@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 **Our Mission**
-_"To harness technology in a way that maximizes humanity's potential, from space exploration to health and beyond."_
+_To harness technology in a way that maximizes humanity's potential, from space exploration to health and beyond._
 
 We are driven by a passion for creating things that make the largest possible impact worldwide. We exist to challenge the traditional methods of education, leadership, and more.
 
