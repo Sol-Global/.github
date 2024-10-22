@@ -24,10 +24,9 @@ Our GitHub account exists to store and manage code relating to internal Sol soft
 
 ## 👨‍💻 **Sol's Preferred Programming Languages**
 - **Python**: Used for internal software and services.
+- **C#**: Used for internal software and services.
 - **C**: Used for internal software and services.
-- **D**: Used for internal software and services.
-- **Bash**: Used for internal scripts and parts of programs.
-- **PHP**: Used via WordPress for our public websites.
+- **Bash**: Used for internal scripts.
 
 ---
 
