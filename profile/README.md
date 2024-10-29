@@ -1,11 +1,11 @@
 # Welcome to **Sol** 🌞
 
-**Sol** believes in pushing the boundaries of what's possible through **imagination**, **technology**, and **innovation**. Our goal is to create technologies and solutions that shape the future, one spark of creativity at a time.
+**Sol** believes in pushing the boundaries of what's possible through **imagination**, **technology**, and **innovation**. Our goal is to create technologies and solutions that shape the future, one spark of imagination at a time.
 
 ---
 
 ## 🚀 **Our Mission**
-_To harness technology in a way that maximizes humanity's potential, from space exploration to health and beyond._
+_To harness technology, creativity, and imagination in a way that maximizes humanity's potential, from space exploration to health and beyond._
 
 We are driven by a passion for creating things that make the largest possible impact worldwide. We exist to challenge the traditional methods of education, leadership, and more.
 
@@ -26,13 +26,6 @@ Our GitHub account exists to store and manage code relating to internal Sol soft
 - **Python**: Used for internal software and services.
 - **C#**: Used for internal software and services.
 - **C**: Used for internal software and services.
-- **Bash**: Used for internal scripts.
-
----
-
-## 🌠 **Vision for the Future**
-_"One little spark of imagination can change the world."_  
-We aim to harness **imagination** and **creativity** to drive a future where technology works in harmony with humanity.
 
 ---
 Thank you for visiting!  
