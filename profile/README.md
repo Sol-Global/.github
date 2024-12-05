@@ -24,8 +24,7 @@ Our GitHub account exists to store and manage code relating to internal Sol soft
 
 ## 👨‍💻 **Sol's Preferred Programming Languages**
 - **Python**: Used for general internal software.
-- **F#**: Used for general internal software.
-- **V**: Used for general internal software.
+- **C#**: Used for general internal software.
 - **C**: Used when low-level control and/or max. performance is necessary.
 
 ---
